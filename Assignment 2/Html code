@@ -1,1 +1,574 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screen1">
+      <div class="irctc-rail-connect1">IRCTC Rail Connect</div>
+      <img
+        class="screen1-child"
+        alt=""
+        src="./public/ellipse-1@2x.png"
+        id="ellipseImage"
+      />
+    </div>
+
+    <script>
+      var ellipseImage = document.getElementById("ellipseImage");
+      if (ellipseImage) {
+        ellipseImage.addEventListener("click", function (e) {
+          window.location.href = "./screen7.html";
+        });
+      }
+      </script>
+  </body>
+</html>
+
+SLIDE 2
+html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen-2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screen-2">
+      <img class="screen-2-child" alt="" src="./public/ellipse-15@2x.png" />
+
+      <div class="screen-2-item"></div>
+      <div class="agent-login-using">AGENT LOGIN USING OTP</div>
+      <div class="div2">
+        <img class="child" alt="" src="./public/rectangle-3.svg" />
+      </div>
+      <b class="user-guide2">USER GUIDE</b>
+      <div class="sign-in" id="sIGNINText">SIGN IN</div>
+      <img class="screen-2-inner" alt="" src="./public/rectangle-4.svg" />
+
+      <img class="screen-2-child1" alt="" src="./public/ellipse-2@2x.png" />
+
+      <img class="screen-2-child2" alt="" src="./public/ellipse-5@2x.png" />
+
+      <div class="login3">LOGIN</div>
+      <img class="screen-2-child3" alt="" />
+
+      <b class="back">BACK</b>
+      <div class="user-name">User Name</div>
+      <img class="screen-2-child4" alt="" />
+
+      <div class="password1">Password</div>
+      <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
+
+      <div class="forgot-account-details-container">
+        <p class="forgot-account-details">Forgot Account Details?</p>
+      </div>
+      <div class="register-user">Register User?</div>
+      <div class="screen-2-child5"></div>
+      <div class="login-and-booking">Login and booking with OTP</div>
+      <div class="screen-2-child6"></div>
+      <div class="screen-2-child6"></div>
+      <div class="tdm">T==DM</div>
+      <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+      <div class="screen-2-child8"></div>
+      <div class="enter-the-captcha">Enter the Captcha</div>
+      <b class="more-apps-of">More Apps of IRCTC</b>
+      <img class="screen-2-child9" alt="" src="./public/ellipse-6@2x.png" />
+
+      <img class="screen-2-child10" alt="" src="./public/ellipse-7@2x.png" />
+
+      <img class="screen-2-child11" alt="" src="./public/ellipse-8@2x.png" />
+
+      <b class="air-ticket">AIR TICKET</b>
+      <b class="bus2">BUS</b>
+      <b class="hotel1">HOTEL</b>
+      <img class="screen-2-child12" alt="" src="./public/ellipse-9@2x.png" />
+
+      <img class="screen-2-child13" alt="" src="./public/ellipse-10@2x.png" />
+
+      <img class="screen-2-child14" alt="" src="./public/ellipse-11@2x.png" />
+
+      <b class="uts-ticket">UTS TICKET</b>
+      <b class="irctc-tourism">IRCTC TOURISM</b>
+      <img class="ticket-icon1" alt="" src="./public/ticket@2x.png" />
+
+      <b class="order-food-in1">ORDER FOOD IN TRAIN</b>
+    </div>
+
+    <script>
+      var sIGNINText = document.getElementById("sIGNINText");
+      if (sIGNINText) {
+        sIGNINText.addEventListener("click", function (e) {
+          window.location.href = "./screen6.html";
+        });
+      }
+      </script>
+  </body>
+</html>
+
+SLIDE 3
+!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen-3.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screen-3">
+      <div class="screen-3-child"></div>
+      <img class="screen-3-item" alt="" src="./public/ellipse-1@2x.png" />
+
+      <b class="user-guide1">USER GUIDE</b>
+      <img class="screen-3-inner" alt="" src="./public/ellipse-15@2x.png" />
+
+      <img class="screen-3-child1" alt="" src="./public/rectangle-1.svg" />
+
+      <b class="user-registration">USER REGISTRATION</b>
+      <div class="screen-3-child2"></div>
+      <b class="mobile-number">Mobile Number</b>
+      <div class="screen-3-child3"></div>
+      <b class="email-id">Email id</b>
+      <div class="screen-3-child4"></div>
+      <b class="username">Username</b>
+      <div class="screen-3-child5"></div>
+      <b class="password">Password</b>
+      <img class="image-3-icon" alt="" src="./public/image-3@2x.png" />
+
+      <div class="screen-3-child6"></div>
+      <b class="confirm-password">Confirm Password</b>
+      <div class="screen-3-child7"></div>
+      <img class="image-4-icon" alt="" src="./public/image-3@2x.png" />
+
+      <b class="first-name">First Name</b>
+      <div class="screen-3-child8"></div>
+      <b class="middle-name">Middle Name</b>
+      <img class="screen-3-child9" alt="" src="./public/line-8.svg" />
+
+      <b class="last-nameoptional">Last Name(optional)</b>
+      <div class="screen-3-child10"></div>
+      <b class="dobddmmyy">DOB(dd/mm/yy)</b>
+      <div class="ellipse-div"></div>
+      <b class="m">M</b>
+      <div class="screen-3-child11"></div>
+      <b class="f">F</b>
+      <div class="screen-3-child12"></div>
+      <b class="t">T</b>
+      <div class="screen-3-child13"></div>
+      <div class="nationality">Nationality</div>
+      <div class="screen-3-child14"></div>
+      <div class="div"></div>
+      <div class="occupationaloptional">Occupational(optional)</div>
+      <div class="screen-3-child15"></div>
+      <div class="martial-status-optional">Martial Status (optional)</div>
+      <div class="div1" id="container">
+        <b class="next">Next</b>
+      </div>
+    </div>
+
+    <script>
+      var container = document.getElementById("container");
+      if (container) {
+        container.addEventListener("click", function (e) {
+          window.location.href = "./screen5.html";
+        });
+      }
+      </script>
+  </body>
+</html>
+
+SLIDE 4
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen-4.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screen-4">
+      <div class="screen-4-child"></div>
+      <div class="screen-4-item"></div>
+      <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+      <div class="screen-4-inner"></div>
+      <b class="login2">Login</b>
+      <b class="irctc-rail-connect">IRCTC RAIL CONNECT</b>
+      <b class="home3">Home</b>
+      <b class="account3">Account</b>
+      <b class="shop1">
+        <p class="retiring">Shop</p>
+      </b>
+      <img class="image-6-icon" alt="" src="./public/image-12@2x.png" />
+
+      <b class="transactions2">Transactions</b>
+      <b class="more3">
+        <p class="retiring">More</p>
+      </b>
+      <img class="screen-4-child1" alt="" src="./public/rectangle-13@2x.png" />
+
+      <img class="screen-4-child2" alt="" src="./public/rectangle-14@2x.png" />
+
+      <b class="hotel">Hotel</b>
+      <b class="order-food-in">Order Food In Train</b>
+      <img class="image-8-icon" alt="" src="./public/image-8@2x.png" />
+
+      <img class="screen-4-child3" alt="" src="./public/rectangle-27@2x.png" />
+
+      <img class="screen-4-child4" alt="" src="./public/rectangle-32@2x.png" />
+
+      <img class="screen-4-child5" alt="" src="./public/rectangle-28@2x.png" />
+
+      <b class="see-more">See More</b>
+      <b class="see-more1">See More</b>
+      <img class="screen-4-child6" alt="" src="./public/rectangle-33@2x.png" />
+
+      <b class="fastag">Fastag</b>
+      <b class="metro">Metro</b>
+      <img class="image-5-icon" alt="" src="./public/image-11@2x.png" />
+
+      <img class="vector-icon2" alt="" src="./public/vector.svg" />
+
+      <img class="icon-cart1" alt="" src="./public/-icon-cart.svg" />
+
+      <img
+        class="screen-4-child7"
+        alt=""
+        src="./public/rectangle-10@2x.png"
+        id="rectangleImage6"
+      />
+
+      <img class="screen-4-child8" alt="" src="./public/rectangle-12@2x.png" />
+
+      <img class="screen-4-child9" alt="" src="./public/rectangle-11@2x.png" />
+
+      <b class="train3">Train</b>
+      <b class="flights">
+        <p class="retiring">Flights</p>
+      </b>
+      <b class="bus">
+        <p class="retiring">Bus</p>
+      </b>
+      <img class="screen-4-child10" alt="" src="./public/rectangle-15@2x.png" />
+
+      <img class="screen-4-child11" alt="" src="./public/rectangle-16@2x.png" />
+
+      <img class="screen-4-child12" alt="" src="./public/rectangle-17@2x.png" />
+
+      <img class="screen-4-child13" alt="" src="./public/rectangle-18@2x.png" />
+
+      <img class="screen-4-child14" alt="" src="./public/rectangle-19@2x.png" />
+
+      <b class="ask-disha-20">Ask Disha 2.0</b>
+      <img class="screen-4-child15" alt="" src="./public/rectangle-20@2x.png" />
+
+      <b class="tourism">
+        <p class="retiring">Tourism</p>
+      </b>
+      <b class="retiring-room">
+        <p class="retiring">Retiring</p>
+        <p class="retiring">Room</p>
+      </b>
+      <b class="e-gift-vouchers">
+        <p class="retiring">e-Gift</p>
+        <p class="retiring">Vouchers</p>
+      </b>
+      <b class="irctc-on-youtube">IRCTC on Youtube</b>
+      <b class="daily-deals">Daily Deals</b>
+      <div class="screen-4-child16"></div>
+      <img class="screen-4-child17" alt="" src="./public/rectangle-22.svg" />
+
+      <div class="screen-4-child18"></div>
+      <b class="recharge">RECHARGE</b>
+      <img class="screen-4-child19" alt="" src="./public/rectangle-25@2x.png" />
+
+      <img class="screen-4-child20" alt="" src="./public/rectangle-26@2x.png" />
+
+      <img class="screen-4-child21" alt="" src="./public/rectangle-42@2x.png" />
+
+      <b class="pay-bills">PAY BILLS</b>
+      <img class="screen-4-child22" alt="" src="./public/rectangle-29@2x.png" />
+
+      <img class="screen-4-child23" alt="" src="./public/rectangle-30@2x.png" />
+
+      <img class="screen-4-child24" alt="" src="./public/rectangle-31@2x.png" />
+
+      <b class="mobile">Mobile</b>
+      <b class="dth">DTH</b>
+      <b class="google-play">Google Play</b>
+      <b class="electricity">Electricity</b>
+      <b class="gas-cylinder">
+        <p class="retiring">Gas</p>
+        <p class="retiring">Cylinder</p>
+      </b>
+      <b class="credit-card">Credit Card</b>
+      <img class="image-9-icon" alt="" src="./public/image-9@2x.png" />
+
+      <b class="mobile-postpaid">Mobile Postpaid</b>
+      <b class="broadband">Broadband</b>
+      <img class="screen-4-child25" alt="" src="./public/arrow-8.svg" />
+    </div>
+
+    <script>
+      var rectangleImage6 = document.getElementById("rectangleImage6");
+      if (rectangleImage6) {
+        rectangleImage6.addEventListener("click", function (e) {
+          window.location.href = "./screen4.html";
+        });
+      }
+      </script>
+  </body>
+</html>
+
+SLIDE 5
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen-5.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screen-5">
+      <img class="screen-5-child" alt="" src="./public/rectangle-34.svg" />
+
+      <b class="book-ticket">Book Ticket</b>
+      <b class="my-booking">
+        <p class="my">My</p>
+        <p class="my">Booking</p>
+      </b>
+      <b class="pnr-enquiry">
+        <p class="my">PNR</p>
+        <p class="my">Enquiry</p>
+      </b>
+      <b class="last-transaction">
+        <p class="my">Last</p>
+        <p class="my">Transaction</p>
+      </b>
+      <b class="upcoming-journey">Upcoming Journey</b>
+      <b class="cancel-ticket">Cancel Ticket</b>
+      <b class="file-tdr">File TDR</b>
+      <b class="refund-history">Refund History</b>
+      <b class="faq">
+        <p class="my">FAQ</p>
+      </b>
+      <b class="irctc-e-wallet">
+        <p class="my">IRCTC</p>
+        <p class="my">E-Wallet</p>
+      </b>
+      <b class="chart-vacancy">
+        <p class="my">Chart</p>
+        <p class="my">Vacancy</p>
+      </b>
+      <b class="train-schedule" id="trainScheduleText">
+        <p class="my">Train</p>
+        <p class="my">Schedule</p>
+      </b>
+      <b class="track-your-train-container">
+        <p class="my">Track Your</p>
+        <p class="my">Train</p>
+      </b>
+      <b class="ask-disha-20-container">
+        <p class="my">Ask Disha</p>
+        <p class="my">2.0</p>
+      </b>
+      <img class="image-13-icon" alt="" src="./public/image-13@2x.png" />
+
+      <img class="icon-cart" alt="" src="./public/-icon-cart.svg" />
+
+      <div class="screen-5-item"></div>
+      <img class="screen-5-inner" alt="" src="./public/arrow-8.svg" />
+
+      <b class="login1">Login</b>
+      <b class="home2">Home</b>
+      <img class="image-11-icon" alt="" src="./public/image-11@2x.png" />
+
+      <img class="image-12-icon" alt="" src="./public/image-12@2x.png" />
+
+      <img class="vector-icon1" alt="" src="./public/vector.svg" />
+
+      <b class="shop">Shop</b>
+      <b class="account2">Account</b>
+      <b class="more2">More</b>
+      <div class="screen-5-child1"></div>
+      <b class="transactions1">Transactions</b>
+      <div class="screen-5-child2"></div>
+      <b class="train2">TRAIN</b>
+      <img class="icon" alt="" src="./public/---.svg" />
+
+      <b class="information1">INFORMATION</b>
+      <b class="please-check-the-container1">
+        <p class="my">
+          Please check the arrival/departure time of booked train from
+          www.indianrail.gov.in,NTES OR 139 for any changes.Click here for more
+          alerts & updates.
+        </p>
+        <p class="p1"></p>
+        <p class="booking-and-cancellation1">
+          Booking and Cancellation for ALL nodes will not be available from
+          00:20 hrs to 02:29 hrs of 29/02/2024 due to maintenance
+          activity.Inconvenience caused is deeply regretted.
+        </p>
+      </b>
+      <img class="image-15-icon" alt="" src="./public/image-15@2x.png" />
+
+      <div class="screen-5-child3"></div>
+      <img class="screen-5-child4" alt="" src="./public/rectangle-39@2x.png" />
+
+      <img class="screen-5-child5" alt="" src="./public/rectangle-44@2x.png" />
+
+      <img class="screen-5-child6" alt="" src="./public/rectangle-43@2x.png" />
+
+      <img class="screen-5-child7" alt="" src="./public/rectangle-41@2x.png" />
+
+      <img class="screen-5-child8" alt="" src="./public/rectangle-46@2x.png" />
+
+      <img class="screen-5-child9" alt="" src="./public/rectangle-40@2x.png" />
+
+      <img class="screen-5-child10" alt="" src="./public/rectangle-47@2x.png" />
+
+      <img class="screen-5-child11" alt="" src="./public/rectangle-48@2x.png" />
+
+      <img class="screen-5-child12" alt="" src="./public/rectangle-45@2x.png" />
+
+      <img class="screen-5-child13" alt="" src="./public/rectangle-51@2x.png" />
+
+      <img class="screen-5-child14" alt="" src="./public/rectangle-50@2x.png" />
+
+      <img class="screen-5-child15" alt="" src="./public/rectangle-49@2x.png" />
+
+      <img class="screen-5-child16" alt="" src="./public/rectangle-42@2x.png" />
+
+      <img class="screen-5-child17" alt="" src="./public/rectangle-52@2x.png" />
+    </div>
+
+    <script>
+      var trainScheduleText = document.getElementById("trainScheduleText");
+      if (trainScheduleText) {
+        trainScheduleText.addEventListener("click", function (e) {
+          window.location.href = "./screen3.html";
+        });
+      }
+      </script>
+  </body>
+</html>
+
+SLIDE 6
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen-7.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screen-7" id="screen7Container">
+      <div class="screen-7-child"></div>
+      <img class="screen-7-item" alt="" src="./public/arrow-8.svg" />
+
+      <img class="screen-7-inner" alt="" src="./public/ellipse-17@2x.png" />
+
+      <img class="ellipse-icon" alt="" src="./public/ellipse-18@2x.png" />
+
+      <b class="ordercancel-food">ORDER/CANCEL FOOD</b>
+      <img class="screen-7-child1" alt="" src="./public/rectangle-73@2x.png" />
+
+      <img class="screen-7-child2" alt="" src="./public/ellipse-19@2x.png" />
+
+      <b class="get-restaurant-food"
+        >Get restaurant food delieverd to your train seat</b
+      >
+      <div class="screen-7-child3"></div>
+      <div class="search-train-or">Search Train or Station to explore</div>
+      <div class="screen-7-child4"></div>
+      <img class="train-icon1" alt="" src="./public/train@2x.png" />
+
+      <div class="enter-pnr-to">Enter PNR to order</div>
+      <div class="screen-7-child5"></div>
+      <div class="submit">SUBMIT</div>
+      <div class="screen-7-child6"></div>
+      <img class="screen-7-child7" alt="" src="./public/ellipse-20@2x.png" />
+
+      <div class="indian-railway-catering-container">
+        <p class="indian-railway-catering-and-to">
+          <b>Indian Railway Catering and Tourism Corportion Limited</b>
+        </p>
+        <p class="a-government-of">A Government of India Enterprise</p>
+      </div>
+      <img class="screen-7-child8" alt="" src="./public/rectangle-78@2x.png" />
+
+      <div class="screen-7-child9"></div>
+      <div class="official-website-of">
+        Official website of Indian Railways and IRCTC to order food on trains
+      </div>
+      <div class="screen-7-child10"></div>
+      <div class="screen-7-child11"></div>
+      <div class="group-booking">GROUP BOOKING</div>
+      <div class="travelling-as-a">
+        Travelling as a group of 15 or more people?
+      </div>
+      <div class="group-booking1">Group Booking</div>
+      <div class="screen-7-child12"></div>
+      <img class="image-16-icon" alt="" src="./public/image-16@2x.png" />
+
+      <img
+        class="shopping-cart-icon2"
+        alt=""
+        src="./public/shopping-cart@2x.png"
+      />
+
+      <img class="account-icon1" alt="" src="./public/account@2x.png" />
+
+      <img class="team-icon" alt="" src="./public/team@2x.png" />
+
+      <div class="search"></div>
+      <b class="home1">Home</b>
+      <b class="cart1">Cart</b>
+      <b class="account1">Account</b>
+    </div>
+
+    <script>
+      var screen7Container = document.getElementById("screen7Container");
+      if (screen7Container) {
+        screen7Container.addEventListener("click", function (e) {
+          window.location.href = "./screen1.html";
+        });
+      }
+      </script>
+  </body>
+</html>
 
